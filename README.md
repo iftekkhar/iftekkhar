@@ -1,11 +1,13 @@
 ### Hi there, I'm Iftekhar Anam - [website] 👋
 
-## I'm a Engineer, Developer, Designer, and Dreamer!!
+## I'm an Engineer, Developer, Designer, and Dreamer!!
+
 
 - 🔭 I’m currently working with React & Node
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a Mechanical Engineer who built Race Cars & got awards from NASA. But Who Cares, Im Married to Programming. 
+
 
 ### Connect with me:
 
@@ -16,7 +18,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools i Use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
