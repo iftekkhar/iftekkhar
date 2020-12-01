@@ -6,7 +6,6 @@
 - 🔭 I’m currently working with React & Node
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am a Mechanical Engineer who built Race Cars & got awards from NASA. But Who Cares, Im Married to Programming. 
 
 
 ### Connect with me:
