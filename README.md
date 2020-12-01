@@ -46,7 +46,13 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iftekkhar)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+<details>
+  <summary>:zap: Top Language</summary>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftekkhar)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
 
 [website]: http://iftekharanam.me/
 [linkedin]: https://www.linkedin.com/in/iftekhar-anam/
