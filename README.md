@@ -55,6 +55,7 @@
 
 </details>
 
+<figure><embed src="https://wakatime.com/share/@iftekkhar247/93540815-a667-4caf-8088-f18465ade04e.svg"></embed></figure>
 
 [website]: http://iftekharanam.me/
 [linkedin]: https://www.linkedin.com/in/iftekhar-anam/
