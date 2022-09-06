@@ -1,6 +1,6 @@
 ### Hi there, I'm Iftekhar Anam - [website] 👋
 
-## I'm an Engineer, Developer, Designer, and Dreamer!!
+## an Engineer, Developer, Designer, and Dreamer!!
 
 
 - 🔭 I’m currently working with React & Node
