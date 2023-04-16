@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with React & Node
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
